@@ -1,0 +1,11 @@
+.openweather-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+@media (min-width: 768px) {
+  .openweather-container {
+    padding: 2rem;
+  }
+}

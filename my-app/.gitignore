@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+my-app/node_modules/
+
+# build
+my-app/build/
+my-app/dist/
+
+# misc
+my-app/.env
